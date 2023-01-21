@@ -1,15 +1,25 @@
 # Singapore Tourism Board Open API
 
 # Table of Contents
-
+ - [1. Introduction](#1-introduction)
+ - [2. Deployment Information](#2-application-deployment-and-folder-structure)
+ - [3. Data Pipeline](#3-data-ingestion-pipeline)
 
 ---
 # 1. Introduction
+
 In 2019 the Covid pandemic forced the global tourism industry into slowdown. During this period tourism related businesses had to "go digital" to offer unique tour experiences and employ digital marketing to reach their target audience. Fast forward to 2023, tourism related businesses are now more digitally savvy and better able to take advantage of the digital substrate.
 
 To increase productivity and to enhance the information transparency for all tourist visiting Singapore. The Singapore Tourism Board has in 2022 unveiled their Tourism Information & Services Hub (TIH). TIH serves as a one stop shop to access tourism related offerings and travel software services in Singapore.
 
+<!-- [link](https://youtu.be/6KOMO8dE3K0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/6KOMO8dE3K0) -->
+[![Image](./assets/sgtih_mainpage_sshot.png)](https://youtu.be/6KOMO8dE3K0)
+
 In this project, I show case the content user api
+
+
+
 
 
 ## 1.1 Open API's by Singapore Tourism Board
@@ -49,7 +59,7 @@ The folder directory layout is as below:
 
 ```mermaid
 graph LR;
-    A-->B;
+    A([somehing])-->B;
     A-->C;
     B-->E;
     C-->E;
